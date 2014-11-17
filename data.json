@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "count": {
+            "type": "number"
+        }
+    },
+    "rows": [
+        {
+            "count": 4919
+        }
+    ],
+    "time": 0.002,
+    "total_rows": 1
+}
